@@ -31,6 +31,8 @@ Any changes you make in Forestry will be commited back to the Git repository. De
 1. Make sure to set `HUGO_VERSION` to 0.65.0 or above (tested with latest version)
 1. Set the publish directory to: `public`
 
+Test
+
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
 
 ## Local development
