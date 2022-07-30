@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: 'An Adventure Abroad '
+featured_image: "/images/pxl_20211127_125626672.jpg"
+description: 'A journey of two weirdos to weird parts of the world '
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to our blog! Salme can add something in here 
